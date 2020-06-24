@@ -273,7 +273,7 @@ if (getCookie('domainGUID')) {
 }
 
 // Homepage edits
-$('.surnav .topnav_block.secnav.last').before('<li class="topnav_block secnav"><a href="https://act.reprieve.org.uk/page/contribute/donatenow-sl?source=rukhome" target="_blank" class="topnav_element secnav">Donate</a></li>');
+$('.surnav .topnav_block.secnav.last').before('<li class="topnav_block secnav"><a href="https://reprieve.netdonor.net/page/56033/donate/1?ea.tracking.id=website" target="_blank" class="topnav_element secnav">Donate</a></li>');
 
 $(".primary h1, .primary h2, .section_subtitle").wrapInner("<span></span>");
 
